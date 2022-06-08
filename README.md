@@ -13,3 +13,4 @@ $gcc -o c client_tcp.c
 $./c eros.cs.txstate.edu
 
 the file used as the database is called database.txt
+The project is written in the C programming language
